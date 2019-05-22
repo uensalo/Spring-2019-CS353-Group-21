@@ -1,0 +1,10 @@
+Gereksiz seyler kaldi:
+    -   Judge Gavel Name change
+        $sql = "UPDATE Judges SET Gavel_Name = '$input'";
+        mysqli_query($db, $sql);
+    
+    -   Update Personal Info
+        Faruk'ta var
+    
+    - Her seyin baglanmasi
+        Bir dahaki asama, herkesin oldugu bir toplanti lazim
